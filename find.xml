@@ -2,6 +2,22 @@
   <component name="FindSettings">
     <option name="customScope" value="Only Non-Built" />
     <option name="defaultScopeName" value="Only Non-Built" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Only Non-Built" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.php</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
+    </recentFileMasks>
   </component>
 </application>
