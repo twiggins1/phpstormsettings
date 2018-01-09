@@ -5,7 +5,7 @@
     <option name="SECONDARY_FONT_FAMILY" value="Monospaced" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:PREVIEW" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE:PREVIEW" />
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
     <option name="CUSTOM_SOFT_WRAP_INDENT" value="1" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
