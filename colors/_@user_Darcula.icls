@@ -3,10 +3,11 @@
     <property name="created">2018-01-02T16:53:42</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-01-02T16:57:36</property>
+    <property name="modified">2018-01-11T14:59:47</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
+    <option name="SELECTED_INDENT_GUIDE" value="6a6a6a" />
     <option name="WHITESPACES" value="3b3b3b" />
   </colors>
 </scheme>

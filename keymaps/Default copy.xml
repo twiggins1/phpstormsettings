@@ -1,6 +1,23 @@
 <keymap version="1" name="Default copy" parent="$default">
-  <action id="CloseActiveTab">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="EditorDeleteLine" />
   <action id="EditorSelectWord" />
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="RunDashboard.ShowConfigurations" />
 </keymap>
