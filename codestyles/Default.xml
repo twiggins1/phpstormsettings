@@ -8,6 +8,9 @@
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="220" />
+  <HTMLCodeStyleSettings>
+    <option name="HTML_QUOTE_STYLE" value="Single" />
+  </HTMLCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
   </JSCodeStyleSettings>
