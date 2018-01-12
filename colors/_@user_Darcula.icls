@@ -3,7 +3,7 @@
     <property name="created">2018-01-02T16:53:42</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-01-11T17:18:11</property>
+    <property name="modified">2018-01-11T17:32:57</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -23,6 +23,7 @@
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
+    <option name="LINE_NUMBERS_COLOR" value="8b8e91" />
     <option name="SELECTED_INDENT_GUIDE" value="6a6a6a" />
     <option name="WHITESPACES" value="3b3b3b" />
   </colors>
