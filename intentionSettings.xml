@@ -1,6 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="PHP/Symfony2MethodCreateService" />
-    <ignoreAction name="PHP/Convert namespace to braced" />
-  </component>
-</application>
