@@ -3,18 +3,13 @@
     <option name="customScope" value="Only Non-Built" />
     <option name="defaultScopeName" value="Only Non-Built" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Only Non-Built" />
+    <option name="FILE_MASK" value="*.tpl" />
     <recentFileMasks>
-      <mask>!*.</mask>
-      <mask>!*.cs</mask>
-      <mask>!*.css</mask>
       <mask>*</mask>
       <mask>*.s</mask>
       <mask>*.</mask>
-      <mask>*.tpl</mask>
       <mask>*.tp</mask>
       <mask>*.t</mask>
       <mask>*.sc</mask>
@@ -38,6 +33,10 @@
       <mask>!app.js, !*.c</mask>
       <mask>!app.js, !*.cs</mask>
       <mask>!app.js, !*.css</mask>
+      <mask>.</mask>
+      <mask>.t</mask>
+      <mask>.tpl</mask>
+      <mask>*.tpl</mask>
     </recentFileMasks>
   </component>
 </application>
