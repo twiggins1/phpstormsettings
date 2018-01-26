@@ -8,7 +8,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Only Non-Built" />
     <recentFileMasks>
-      <mask>*</mask>
       <mask>*.s</mask>
       <mask>*.</mask>
       <mask>*.tp</mask>
@@ -20,12 +19,7 @@
       <mask>!gps</mask>
       <mask>!gps.</mask>
       <mask>!gps.js</mask>
-      <mask>!</mask>
       <mask>!a</mask>
-      <mask>!ap</mask>
-      <mask>!app</mask>
-      <mask>!app.</mask>
-      <mask>!app.js</mask>
       <mask>!app.js,</mask>
       <mask>!app.js,</mask>
       <mask>!app.js, !</mask>
@@ -38,6 +32,12 @@
       <mask>.t</mask>
       <mask>.tpl</mask>
       <mask>*.tpl</mask>
+      <mask>1</mask>
+      <mask>!</mask>
+      <mask>!ap</mask>
+      <mask>!app</mask>
+      <mask>!app.</mask>
+      <mask>!app.js</mask>
     </recentFileMasks>
   </component>
 </application>
