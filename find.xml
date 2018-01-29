@@ -5,7 +5,6 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="Only Non-Built" />
-    <option name="FILE_MASK" value="!*styles.css" />
     <recentFileMasks>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
