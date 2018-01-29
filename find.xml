@@ -3,17 +3,12 @@
     <option name="customScope" value="Only Non-Built" />
     <option name="defaultScopeName" value="Only Non-Built" />
     <option name="fromCursor" value="false" />
-    <option name="regularExpressions" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Only Non-Built" />
-    <option name="FILE_MASK" value="variables.scss" />
+    <option name="FILE_MASK" value="!*styles.css" />
     <recentFileMasks>
-      <mask>*.tp</mask>
-      <mask>*.t</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>!g</mask>
       <mask>!gps</mask>
       <mask>!gps.</mask>
@@ -37,8 +32,11 @@
       <mask>!app</mask>
       <mask>!app.</mask>
       <mask>!app.js</mask>
-      <mask>!*.css</mask>
       <mask>variables.scss</mask>
+      <mask>!*.css</mask>
+      <mask>*.scss</mask>
+      <mask>!*.css, !*.css.map</mask>
+      <mask>!*styles.css</mask>
     </recentFileMasks>
   </component>
 </application>
