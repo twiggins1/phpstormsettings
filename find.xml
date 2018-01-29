@@ -7,8 +7,8 @@
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Only Non-Built" />
+    <option name="FILE_MASK" value="!*.css" />
     <recentFileMasks>
-      <mask>*.s</mask>
       <mask>*.</mask>
       <mask>*.tp</mask>
       <mask>*.t</mask>
@@ -38,6 +38,7 @@
       <mask>!app</mask>
       <mask>!app.</mask>
       <mask>!app.js</mask>
+      <mask>!*.css</mask>
     </recentFileMasks>
   </component>
 </application>
