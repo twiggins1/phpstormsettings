@@ -2,34 +2,17 @@
   <component name="FindSettings">
     <option name="customScope" value="Only Non-Built" />
     <option name="defaultScopeName" value="Only Non-Built" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="fromCursor" value="false" />
+    <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="Only Non-Built" />
     <recentFileMasks>
-      <mask>!*.</mask>
-      <mask>!*.cs</mask>
-      <mask>!*.css</mask>
-      <mask>*</mask>
-      <mask>*.s</mask>
-      <mask>*.</mask>
-      <mask>*.tpl</mask>
-      <mask>*.tp</mask>
-      <mask>*.t</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>!g</mask>
       <mask>!gps</mask>
       <mask>!gps.</mask>
       <mask>!gps.js</mask>
-      <mask>!</mask>
       <mask>!a</mask>
-      <mask>!ap</mask>
-      <mask>!app</mask>
-      <mask>!app.</mask>
-      <mask>!app.js</mask>
       <mask>!app.js,</mask>
       <mask>!app.js,</mask>
       <mask>!app.js, !</mask>
@@ -38,6 +21,21 @@
       <mask>!app.js, !*.c</mask>
       <mask>!app.js, !*.cs</mask>
       <mask>!app.js, !*.css</mask>
+      <mask>.</mask>
+      <mask>.t</mask>
+      <mask>.tpl</mask>
+      <mask>*.tpl</mask>
+      <mask>1</mask>
+      <mask>!</mask>
+      <mask>!ap</mask>
+      <mask>!app</mask>
+      <mask>!app.</mask>
+      <mask>!app.js</mask>
+      <mask>variables.scss</mask>
+      <mask>!*.css</mask>
+      <mask>*.scss</mask>
+      <mask>!*.css, !*.css.map</mask>
+      <mask>!*styles.css</mask>
     </recentFileMasks>
   </component>
 </application>
