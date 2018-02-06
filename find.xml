@@ -5,8 +5,8 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="Only Non-Built" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>!g</mask>
       <mask>!gps</mask>
@@ -36,6 +36,7 @@
       <mask>*.scss</mask>
       <mask>!*.css, !*.css.map</mask>
       <mask>!*styles.css</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
