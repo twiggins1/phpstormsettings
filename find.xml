@@ -3,12 +3,12 @@
     <option name="customScope" value="Only Non-Built" />
     <option name="defaultScopeName" value="Only Non-Built" />
     <option name="fromCursor" value="false" />
+    <option name="regularExpressions" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Only Non-Built" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.js, !app.js" />
     <recentFileMasks>
-      <mask>*.scs</mask>
-      <mask>!g</mask>
       <mask>!gps</mask>
       <mask>!gps.</mask>
       <mask>!gps.js</mask>
@@ -37,6 +37,8 @@
       <mask>!*.css, !*.css.map</mask>
       <mask>!*styles.css</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
+      <mask>*.js, !app.js</mask>
     </recentFileMasks>
   </component>
 </application>
