@@ -1,6 +1,6 @@
 <application>
   <component name="ApplicationTasksOptions">
-    <TaskOptions isEnabled="true">
+    <TaskOptions isEnabled="false">
       <option name="arguments" value="/Development/www/abovelms/tools/compile_styles.php --modules $/FileRelativePath$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
