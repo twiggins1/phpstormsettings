@@ -7,6 +7,7 @@
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Only Non-Built" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>!gps.</mask>
       <mask>!gps.js</mask>
@@ -31,13 +32,13 @@
       <mask>!app.js</mask>
       <mask>variables.scss</mask>
       <mask>!*.css</mask>
-      <mask>*.scss</mask>
       <mask>!*.css, !*.css.map</mask>
       <mask>!*styles.css</mask>
       <mask>*.php</mask>
       <mask>*.js</mask>
       <mask>*.js, !app.js</mask>
       <mask>*.js, *.tpl</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
