@@ -7,7 +7,6 @@
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Only Non-Built" />
-    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>!gps.</mask>
       <mask>!gps.js</mask>
