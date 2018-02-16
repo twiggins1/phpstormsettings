@@ -1,9 +1,0 @@
-<application>
-  <component name="AbbreviationManager">
-    <abbreviations>
-      <action id="EditorToggleUseSoftWraps">
-        <abbreviation name="softwraptoggle" />
-      </action>
-    </abbreviations>
-  </component>
-</application>

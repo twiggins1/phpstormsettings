@@ -1,9 +1,4 @@
 <application>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="C:\Development\UniServerZ\core\php56\php.exe" id="182da5b2-2061-4e0e-9463-805c6c7c513e" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 5.6">
