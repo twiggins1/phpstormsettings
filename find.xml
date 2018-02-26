@@ -4,9 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.js</mask>
@@ -19,6 +16,24 @@
       <mask>*sc</mask>
       <mask>*scs</mask>
       <mask>*scss</mask>
+      <mask>*.scss</mask>
+      <mask>*.scss,</mask>
+      <mask>*.scss,</mask>
+      <mask>*.scss, *</mask>
+      <mask>*.scss, *.</mask>
+      <mask>*.scss, *.j</mask>
+      <mask>*.scss, *.js</mask>
+      <mask>*.scss, *.js,</mask>
+      <mask>*.scss, *.js,</mask>
+      <mask>*.scss, *.js, *.</mask>
+      <mask>*.scss, *.js, *.php, *.tpl</mask>
+      <mask>*.scss, *.js, *.php, *.tp</mask>
+      <mask>*.scss, *.js, *.php, *.t</mask>
+      <mask>*.scss, *.js, *.php, *.</mask>
+      <mask>*.scss, *.js, *.php, *</mask>
+      <mask>*.scss, *.js, *.php,</mask>
+      <mask>*.scss, *.js, *.php,</mask>
+      <mask>*.scss, *.js, *.php</mask>
     </recentFileMasks>
   </component>
 </application>
