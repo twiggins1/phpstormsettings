@@ -16,7 +16,6 @@
       <mask>*sc</mask>
       <mask>*scs</mask>
       <mask>*scss</mask>
-      <mask>*.scss</mask>
       <mask>*.scss,</mask>
       <mask>*.scss,</mask>
       <mask>*.scss, *</mask>
@@ -34,6 +33,7 @@
       <mask>*.scss, *.js, *.php,</mask>
       <mask>*.scss, *.js, *.php,</mask>
       <mask>*.scss, *.js, *.php</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
