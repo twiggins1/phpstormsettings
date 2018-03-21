@@ -3,12 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tpl" />
     <recentFileMasks>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
       <mask>*.php</mask>
       <mask>*</mask>
       <mask>*s</mask>
@@ -34,6 +30,11 @@
       <mask>*.scss, *.js, *.php</mask>
       <mask>*.scss</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.tp</mask>
+      <mask>*.tpl</mask>
     </recentFileMasks>
   </component>
 </application>
