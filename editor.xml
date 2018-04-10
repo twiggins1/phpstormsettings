@@ -9,4 +9,13 @@
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern case-sensitive="true" pattern="\bHACK\b.*" />
+    <pattern case-sensitive="true" pattern="\bBUG\b.*" />
+    <pattern case-sensitive="true" pattern="\bUNDONE\b.*" />
+    <pattern case-sensitive="true" pattern="\bXXX\b.*" />
+    <pattern case-sensitive="true" pattern="\bNOTE\b" />
+  </component>
 </application>

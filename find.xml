@@ -8,17 +8,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.php</mask>
-      <mask>*</mask>
-      <mask>*s</mask>
-      <mask>*sc</mask>
-      <mask>*scs</mask>
-      <mask>*scss</mask>
-      <mask>*.scss,</mask>
-      <mask>*.scss,</mask>
-      <mask>*.scss, *</mask>
-      <mask>*.scss, *.</mask>
-      <mask>*.scss, *.j</mask>
       <mask>*.scss, *.js</mask>
       <mask>*.scss, *.js,</mask>
       <mask>*.scss, *.js,</mask>
@@ -37,7 +26,18 @@
       <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.tp</mask>
+      <mask>*1.tpl</mask>
+      <mask>*!.tpl</mask>
       <mask>*.tpl</mask>
+      <mask>1*.tpl</mask>
+      <mask>1.tpl</mask>
+      <mask>.tpl</mask>
+      <mask>!.tpl</mask>
+      <mask>!*.tpl</mask>
+      <mask>!*.s</mask>
+      <mask>!*.sc</mask>
+      <mask>!*.scs</mask>
+      <mask>!*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
