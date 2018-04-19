@@ -17,5 +17,6 @@
     <pattern case-sensitive="true" pattern="\bUNDONE\b.*" />
     <pattern case-sensitive="true" pattern="\bXXX\b.*" />
     <pattern case-sensitive="true" pattern="\bNOTE\b" />
+    <pattern pattern="\bDUH\b.*" />
   </component>
 </application>
