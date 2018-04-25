@@ -3,39 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.scss, *.js</mask>
-      <mask>*.scss, *.js,</mask>
-      <mask>*.scss, *.js,</mask>
-      <mask>*.scss, *.js, *.</mask>
-      <mask>*.scss, *.js, *.php, *.tpl</mask>
-      <mask>*.scss, *.js, *.php, *.tp</mask>
-      <mask>*.scss, *.js, *.php, *.t</mask>
-      <mask>*.scss, *.js, *.php, *.</mask>
-      <mask>*.scss, *.js, *.php, *</mask>
-      <mask>*.scss, *.js, *.php,</mask>
-      <mask>*.scss, *.js, *.php,</mask>
-      <mask>*.scss, *.js, *.php</mask>
-      <mask>*.scss</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.t</mask>
-      <mask>*.tp</mask>
-      <mask>*1.tpl</mask>
-      <mask>*!.tpl</mask>
-      <mask>*.tpl</mask>
-      <mask>1*.tpl</mask>
-      <mask>1.tpl</mask>
-      <mask>.tpl</mask>
-      <mask>!.tpl</mask>
-      <mask>!*.tpl</mask>
-      <mask>!*.s</mask>
-      <mask>!*.sc</mask>
-      <mask>!*.scs</mask>
-      <mask>!*.scss</mask>
-    </recentFileMasks>
   </component>
 </application>
