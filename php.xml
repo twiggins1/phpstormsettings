@@ -5,10 +5,15 @@
   <component name="PhpCodeSniffer">
     <phpcs_settings_migrated />
   </component>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter home="C:\Development\UniServerZ\core\php56\php.exe" id="b2642531-1acd-44eb-855a-ff0440db0be4" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
+    </interpreters>
+  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 5.6">
-        <phpinfo binary_type="PHP" php_cgi="C:\Development\UniServerZ\core\php56\php-cgi.exe" php_cli="C:\Development\UniServerZ\core\php56\php.exe" path_separator=";" version="5.6.21">
+        <phpinfo binary_type="PHP" php_cgi="C:\Development\UniServerZ\core\php56\php-cgi.exe" php_cli="C:\Development\UniServerZ\core\php56\php.exe" path_separator=";" version="5.6.30">
           <additional_php_ini />
           <configuration_file>C:\Development\UniServerZ\core\php56\php-cli.ini</configuration_file>
           <configuration_options>
@@ -41,7 +46,7 @@
             <configuration_option name="date.default_longitude" value="35.2333" />
             <configuration_option name="date.sunrise_zenith" value="90.583333" />
             <configuration_option name="date.sunset_zenith" value="90.583333" />
-            <configuration_option name="date.timezone" value="America/Denver" />
+            <configuration_option name="date.timezone" value="Europe/London" />
             <configuration_option name="default_charset" value="UTF-8" />
             <configuration_option name="default_mimetype" value="text/html" />
             <configuration_option name="default_socket_timeout" value="60" />
@@ -58,6 +63,12 @@
             <configuration_option name="error_log" value="" />
             <configuration_option name="error_prepend_string" value="" />
             <configuration_option name="error_reporting" value="32767" />
+            <configuration_option name="exif.decode_jis_intel" value="JIS" />
+            <configuration_option name="exif.decode_jis_motorola" value="JIS" />
+            <configuration_option name="exif.decode_unicode_intel" value="UCS-2LE" />
+            <configuration_option name="exif.decode_unicode_motorola" value="UCS-2BE" />
+            <configuration_option name="exif.encode_jis" value="" />
+            <configuration_option name="exif.encode_unicode" value="ISO-8859-15" />
             <configuration_option name="exit_on_timeout" value="0" />
             <configuration_option name="expose_php" value="1" />
             <configuration_option name="extension_dir" value="./extensions" />
@@ -82,6 +93,9 @@
             <configuration_option name="include_path" value=".;C:\php\pear" />
             <configuration_option name="input_encoding" value="" />
             <configuration_option name="internal_encoding" value="" />
+            <configuration_option name="intl.default_locale" value="" />
+            <configuration_option name="intl.error_level" value="0" />
+            <configuration_option name="intl.use_exceptions" value="0" />
             <configuration_option name="log_errors" value="0" />
             <configuration_option name="log_errors_max_len" value="1024" />
             <configuration_option name="mail.add_x_header" value="0" />
@@ -104,7 +118,7 @@
             <configuration_option name="mbstring.substitute_character" value="" />
             <configuration_option name="mcrypt.algorithms_dir" value="" />
             <configuration_option name="mcrypt.modes_dir" value="" />
-            <configuration_option name="memory_limit" value="1G" />
+            <configuration_option name="memory_limit" value="128M" />
             <configuration_option name="mongo.allow_empty_keys" value="0" />
             <configuration_option name="mongo.chunk_size" value="261120" />
             <configuration_option name="mongo.cmd" value="$" />
@@ -200,6 +214,11 @@
             <configuration_option name="session.use_trans_sid" value="0" />
             <configuration_option name="short_open_tag" value="1" />
             <configuration_option name="smtp_port" value="25" />
+            <configuration_option name="soap.wsdl_cache" value="1" />
+            <configuration_option name="soap.wsdl_cache_dir" value="/tmp" />
+            <configuration_option name="soap.wsdl_cache_enabled" value="1" />
+            <configuration_option name="soap.wsdl_cache_limit" value="5" />
+            <configuration_option name="soap.wsdl_cache_ttl" value="86400" />
             <configuration_option name="sql.safe_mode" value="0" />
             <configuration_option name="sys_temp_dir" value="" />
             <configuration_option name="track_errors" value="0" />
@@ -239,12 +258,14 @@
             <extension name="date" />
             <extension name="dom" />
             <extension name="ereg" />
+            <extension name="exif" />
             <extension name="fileinfo" />
             <extension name="filter" />
             <extension name="ftp" />
             <extension name="gd" />
             <extension name="hash" />
             <extension name="iconv" />
+            <extension name="intl" />
             <extension name="json" />
             <extension name="libxml" />
             <extension name="mbstring" />
@@ -257,11 +278,14 @@
             <extension name="openssl" />
             <extension name="pcre" />
             <extension name="session" />
+            <extension name="soap" />
+            <extension name="sockets" />
             <extension name="standard" />
             <extension name="tokenizer" />
             <extension name="wddx" />
             <extension name="xml" />
             <extension name="xmlreader" />
+            <extension name="xmlrpc" />
             <extension name="xmlwriter" />
             <extension name="zip" />
             <extension name="zlib" />
