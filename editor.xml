@@ -17,6 +17,15 @@
     <pattern case-sensitive="true" pattern="\bUNDONE\b.*" />
     <pattern case-sensitive="true" pattern="\bXXX\b.*" />
     <pattern case-sensitive="true" pattern="\bNOTE\b" />
-    <pattern pattern="\bTIMTODO\b.*" />
+    <pattern useCustomColors="true" pattern="\btimtodo\b.*">
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="EFFECT_COLOR" value="9ff" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+      <option name="EFFECT_TYPE" value="2" />
+    </pattern>
+    <filter name="timtodo">
+      <pattern index="7" />
+    </filter>
   </component>
 </application>
