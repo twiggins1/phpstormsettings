@@ -1,0 +1,16 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/accepts" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/extjs" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jquery" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
