@@ -3,6 +3,7 @@
     <option name="customScope" value="Web Sites" />
     <option name="defaultScopeName" value="Web Sites" />
     <option name="SEARCH_SCOPE" value="Web Sites" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,5 +15,6 @@
     <mask>*.mxml</mask>
     <mask>*.php</mask>
     <mask>*.tpl</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
