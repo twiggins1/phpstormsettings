@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JavaScript 1.8" injector-id="xml">
+      <display-name>ListPanel/@@selectionChange</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().matches("@selectionChange")).withParent(xmlTag().withLocalName(string().equalTo("ListPanel")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+  </component>
+</application>
